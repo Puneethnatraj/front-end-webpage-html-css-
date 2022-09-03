@@ -1,0 +1,13 @@
+html{
+    background-color: beige;
+}
+h1{
+    text-shadow: 2px 2px grey;
+    text-decoration: solid;
+    text-decoration-style: double;
+}
+.mydiv{
+    border:5px black;
+    background-color: rgba(120, 117, 113, 0.449);
+    text-align: center;
+}
